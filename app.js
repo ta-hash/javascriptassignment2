@@ -350,11 +350,85 @@
 //     var accuage = Math.floor(diff/(1000*60*60*24*30*12))
 //     document.write(accuage);
      
+
+
+   //  function
+
+
+//    1. Write a function that display
+
+// var a = new Date();
+// function date(){
+//     alert(a)
+// }
+// date();
+
+
+//    2. 
+ 
+ 
+
+// function name (){
+//     alert("Hello Talha")
+    
+// }
+
+// name()
+
+
+
+// 3. Write a function that adds two numbers  
+ 
+
+
+
+
+    
+// function add (a,b,c){
+//     var b = a+b+c
+//      return b;
+
+// }
+//  var f = add(2,3,4);
+//  alert(f)
+
+
+// task no 4
+
+// function calc(num1,opr,num2){
+//         if(opr === "+"){
+//              return num1 + num2
+//          }
+//         else if(opr === "-"){
+//              return num1 - num2
+//          } 
+//          else if(opr === "*"){
+//              return num1 * num2
+//        }else{
+//              return "Incorrect Operator!"
+//          }
+//      }
+//      var result = calc(5,"+",5);
+//      var result1 = calc(4,"-",6);
+//      var result2 = calc(4,"*",9)
+//      console.log(result)
+//      console.log(result1)
+//      console.log(result2)
     
 
 
 
 
+// 6. Write a function that computes factorial of a number
+
+
+// function add (a,b,c,d,e,f,g){
+//          var b = a*b*c*d*e*f*g;
+//           return b;
+    
+//      }
+//       var f = add(2,3,4,5,6,7,8);
+//       alert(f)
 
 
 
@@ -362,6 +436,23 @@
 
 
 
+// 7. Write a function that take start and e
+
+// function main (){
+// for (var b = 1;b<= 10;b++){
+//          document.write(b)
+//        }
+//       }
+// main();
+
+
+
+function code(){
+    var a = "lazy dog "
+    var b = a.toUpperCase();
+    alert(b)
+}
+code();
 
 
 
